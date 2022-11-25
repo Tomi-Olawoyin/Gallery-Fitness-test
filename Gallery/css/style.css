@@ -1,0 +1,36 @@
+/*background: rgb(1,28,19);
+background: linear-gradient(90deg, rgba(1,28,19,0.8211659663865546) 43%, rgba(62,164,194,1) 100%);*/
+
+*{
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align: center;
+    background: rgb(194,62,120);
+    background: linear-gradient(90deg, rgba(194,62,120,1) 10%, rgba(1,20,28,0.8211659663865546) 69%);
+    color: white;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+
+#main-div{
+   
+    margin: 10px;
+}
+
+img{
+    border-radius: 5%;
+    border: 2px inset gray;
+}
+
+h3{
+    background: rgb(194,62,120);
+    background: linear-gradient(90deg, rgba(194,62,120,1) 10%, rgba(1,20,28,0.8211659663865546) 69%);
+    color: white;
+    border-radius: 5%;
+    padding: 6px;
+    cursor: pointer;
+}
